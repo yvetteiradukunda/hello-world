@@ -1,2 +1,3 @@
 # hello-world
-my first git repository
+Hello,
+My name is Yvette and I am a grad student at the University of st. Thomas.
